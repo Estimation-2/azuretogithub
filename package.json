@@ -6,8 +6,12 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
+<<<<<<< HEAD
     "test": "ng test",
     "prod-build-dev": "ng build --prod--build-optimizer"
+=======
+    "test": "ng test"
+>>>>>>> 308275f (first commit)
   },
   "private": true,
   "dependencies": {

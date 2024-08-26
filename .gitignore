@@ -21,7 +21,11 @@ yarn-error.log
 *.sublime-workspace
 
 # Visual Studio Code
+<<<<<<< HEAD
 .vscode/*
+=======
+.vscode/*npm install -g @angular/cli
+>>>>>>> 308275f (first commit)
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
